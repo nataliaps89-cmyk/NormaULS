@@ -1,0 +1,6 @@
+{
+  "name": "NormaULS",
+  "description": "Asistente inteligente de consulta e interpretación reglamentaria para docentes de la Universidad de La Serena, basado exclusivamente en documentos oficiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
